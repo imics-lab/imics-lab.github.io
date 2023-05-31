@@ -17,7 +17,7 @@ permalink: /resources/
 - <a href="https://github.com/imics-lab/eeg-transfer-learning">Transfer Learning for Improved EEG Signal Classification</a>
 - <a href="https://github.com/imics-lab/time-embed">Topological Data Analysis (TDA) for Time-Series Data Embedding</a>
 
-For more source code, please visit our Github page: <a href="https://github.com/imics-lab/">https://github.com/imics-lab/</a></p>
+For more source code, please visit our Github page: <a href="https://github.com/imics-lab/">https://github.com/imics-lab/</a>
 
 ### Datasets
 
