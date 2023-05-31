@@ -1,0 +1,25 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Tristan Pedro 
+  photo: rock.jpg
+  info: Undergraduate student
+  email: tripedro@txstate.edu
+  number_educ: 0
+  education1:
+
+- name: Jonathan Villareal
+  photo: rock.jpg
+  info: Undergraduate student
+  email: j_v609@txstate.edu
+  number_educ: 0
+  education1:
+
+

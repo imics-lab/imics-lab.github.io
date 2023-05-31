@@ -1,0 +1,40 @@
+- name: Vangelis Metsis
+  photo: vangelis1.jpg
+  info: Associate professor, started Aug 2014
+  email: vmetsis@txstate.edu
+  number_educ: 2
+  education1: PhD in <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse">Computer Science and Enginnering, The University of Texas at Arlington (UTA)</a>
+  education2: BS in Computer Science from the <a href="https://www.dept.aueb.gr/en/cs">Department of Informatics of the Athens University of Economics and Business (AUEB)</a>, Greece
+
+- name: Alex Katrompas
+  photo: alex.jpg
+  info: PhD Student, started Aug 2019
+  email: amk181@txstate.edu
+  number_educ: 2
+  education1: Master of Science degree in <a href="https://www.kent.edu/cs" target="_blank">Computer Science from Kent State University</a>
+  education2: BS in Finance/Economics from <a href="https://www.edinboro.edu/" target="_blank">PennWest Edinboro</a>
+
+- name: Xiomin Li
+  photo: xiaomin.jpeg
+  info: PhD Student, started Aug 2018
+  email: x_l30@txstate.edu
+  number_educ: 1
+  education1: BE in Computer Science from <a href="https://en.lzu.edu.cn/">Lanzhou University</a>, China
+
+- name: Rajnish Kumar
+  photo: rajnish.jpg
+  info: PhD Student, started Aug 2022
+  email: rajnish.kumar@txstate.edu
+  number_educ: 2
+  education1: MS in Computer Science California State University, Los Angeles.
+  education2: BE in Computer Engineering from Savitribai Phule Pune University, India
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See Openings for more info
+  email: vmetsis@txstate.edu
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:

@@ -1,2 +1,3 @@
-# imics-lab.github.io
-Intelligent Multimodal Computing and Sensing (IMICS) Laboratory @ Computer Science – Texas State University
+# IMICS Lab Website
+
+This is the website of our academic research group at Texas State University.

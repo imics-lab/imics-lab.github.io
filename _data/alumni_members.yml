@@ -1,0 +1,30 @@
+- name: Lee B. Hinkle
+  photo: lee.jpg
+  duration: In the IMICS Lab as MS student 2015 - 2016 and as a PhD student in 2017 - 2023
+  info: PhD student
+  email: leebhinkle@txstate.edu
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Gentry Atkinson
+  photo: gentry.jpg
+  info: PhD student
+  duration: In the IMICS Lab as a PhD student Aug 2018 to May 2023
+  email: gma23@txstate.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+
+- name: Kamrad Khoshhal Roudposhti
+  photo: kamrad.jpeg
+  info: Postdoc
+  duration: In the IMICS Lab as a Postdoctoral Research Associate 2016 - 2017, now Assistant Professor at Islamic Azad University, Iran
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
