@@ -5,6 +5,17 @@ excerpt: "IMICS Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
+<!-- Check if JavaScript is enabled -->
+<script>
+document.documentElement.classList.add('js');
+</script>
+
+<!-- Show message if JavaScript is not enabled -->
+<noscript>
+<div class="no-js-message">
+<p>Your browser does not support JavaScript. Please enable JavaScript to view this page.</p>
+</div>
+</noscript>
 
 <script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/js/bibtex_js.js"></script>
 <bibtex src="{{ site.url }}{{ site.baseurl }}/docs/imics.bib"></bibtex>
