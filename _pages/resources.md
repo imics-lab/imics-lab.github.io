@@ -21,4 +21,6 @@ For more source code, please visit our Github page: <a href="https://github.com/
 
 ### Datasets
 
-- TBA
+- <a href="https://zenodo.org/record/5911808">TWristAR - wristband activity recognition dataset</a>
+- <a href="https://zenodo.org/record/6898244">Unlabeled Empatica E4 Wristband Data (UE4W) Dataset</a>
+- <a href="https://sandbox.zenodo.org/record/1144199">Processed PSG-Audio Polysomnography Data</a>
