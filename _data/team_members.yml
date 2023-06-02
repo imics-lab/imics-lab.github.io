@@ -31,7 +31,7 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See Openings for more info
+  info: See <a href="/openings">Openings</a> for more info
   email: vmetsis@txstate.edu
   number_educ: 0
   education1:
