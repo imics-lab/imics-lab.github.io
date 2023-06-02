@@ -108,3 +108,10 @@ firstp {
 .logo-text {
 	// font-weight: bold; /* Optional: Apply styling to the text if needed */
 }
+
+.image-stack img {
+    display: block;
+    margin-bottom: 10px; /* Adjust the spacing between images */
+	margin-right: 10px;
+	margin-left: 10px;
+}
