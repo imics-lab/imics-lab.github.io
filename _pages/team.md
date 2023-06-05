@@ -170,6 +170,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-4 clearfix">
 <h4>Bachelor Students</h4>
+<i>(Completed an Independent Study or other research project under the supervision of Dr. Metsis)</i> <br>
+
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
@@ -177,6 +179,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
+<i>(Completed Master's Thesis under the supervision of Dr. Metsis)</i> <br>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
@@ -184,6 +187,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-4 clearfix">
 <h4>Visitors</h4>
+<i>(Supervised by Dr. Metsis in summer research camps.</i> <br>
+<i>REU = Research Experience for Undergraduates</i> <br>
+<i>HS = High School student)</i> <br>
+
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
