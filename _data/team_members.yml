@@ -8,7 +8,7 @@
 
 - name: Alex Katrompas
   photo: alex.jpg
-  info: PhD Student, started Aug 2019
+  info: PhD student, started Aug 2019
   email: amk181@txstate.edu
   number_educ: 2
   education1: Master of Science degree in <a href="https://www.kent.edu/cs" target="_blank">Computer Science from Kent State University</a>
@@ -16,14 +16,14 @@
 
 - name: Xiomin Li
   photo: xiaomin.jpeg
-  info: PhD Student, started Aug 2018
+  info: PhD student, started Aug 2018
   email: x_l30@txstate.edu
   number_educ: 1
   education1: BE in Computer Science from <a href="https://en.lzu.edu.cn/">Lanzhou University</a>, China
 
 - name: Rajnish Kumar
   photo: rajnish.jpg
-  info: PhD Student, started Aug 2022
+  info: PhD student, started Aug 2022
   email: rajnish.kumar@txstate.edu
   number_educ: 2
   education1: MS in Computer Science California State University, Los Angeles.
