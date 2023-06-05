@@ -13,6 +13,7 @@ permalink: /team/
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [former students and lab visitors](#former-bscmsc-students-and-visitors).
 
+<br>
 ## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -77,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-
+<br>
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -132,7 +133,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-
+<br>
 ## Alumni
 
 {% assign number_printed = 0 %}
@@ -166,6 +167,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+<br>
 ## Former BSc/MSc students and Visitors
 <div class="row">
 
