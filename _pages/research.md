@@ -22,19 +22,17 @@ Below, we present our research contributions organized into key research themes.
 
 ### Machine Learning
 
-<img src="/images/respic/biosgan.png" alt="" style="width: 300px; float: right; margin: 10px  0px" />
-Our lab has significantly contributed to machine learning, concentrating on applications in healthcare, time-series data, deep learning techniques, and fairness in multi-class classification.
+<img src="/images/respic/biosgan.png" alt="" style="width: 200px; float: right; margin: 10px  0px" />
+Our team has developed algorithms and methods for machine learning, concentrating on applications in healthcare, time-series data, deep learning techniques, and fairness in multi-class classification.
 
 We've developed Transformer-based time-series Generative Adversarial Networks (GANs), tools for reducing label noise in time-series data, and methods to detect and correct noisy labels. Deep learning techniques, particularly for time-series data, form our primary research direction, with studies on Self-attention, LSTM models, Stateful Training, and more.
 
 Our focus on ethics in AI led us to study bias and fairness in anonymous self-reporting platforms and multi-class classification. In healthcare, we've developed personalized fall detection systems and methods for mental health support, among others.
 
-Our other research domains include Virtual Reality and Augmented Reality for first responder training, IoT middleware, and wireless channel visualization.
-
 
 ### Behavior Modeling and Activity Recognition
 
-<img src="/images/respic/exercise_motion_tracking.png" alt="" style="width: 340px; float: right; margin: 10px  0px" />
+<img src="/images/respic/exercise_motion_tracking.png" alt="" style="width: 300px; float: left; margin: 10px  0px" />
 Behavior modeling and activity recognition are valuable areas that various smart health applications can harness. Our research group has been keenly focused on developing sophisticated algorithms for human motion analysis, contributing to this vital domain of study.
 
 We have applied these algorithms for a diverse array of applications. For instance, we have used motion analysis to detect abnormal behavior, a critical component for ensuring the safety and well-being of individuals in healthcare settings. Also, we've utilized it in video and smartwatch-based fall detection systems, providing an essential tool for monitoring the elderly or those at risk of falls.
@@ -43,7 +41,7 @@ A significant part of our work has been the enhancement of physical therapy thro
 
 ### Virtual Reality, Affective Computing, and Physiological Biosignal Analysis
 
-<img src="/images/respic/emotion_recogntition.png" alt="" style="width: 440px; float: right; margin: 10px  0px" />
+<img src="/images/respic/emotion_recogntition.png" alt="" style="width: 300px; float: right; margin: 10px  0px" />
 
 Our interests extend to the fusion of Virtual Reality (VR), Affective Computing, and Physiological Biosignal Analysis. We have collaborated with social science peers to exploit these fields' potential.
 
@@ -58,7 +56,7 @@ Recognizing sleep's importance for overall health, we've devised solutions for m
 
 ### Smart Health and Pervasive Computing
 
-<img src="/images/respic/pervasive_computing.jpg" alt="" style="width: 370px; float: left; margin: 0px  10px" />
+<img src="/images/respic/pervasive_computing.jpg" alt="" style="width: 370px; float: right; margin: 0px  10px" />
 In alignment with the vision of the NSF and NIH, we aim to develop cutting-edge, multidisciplinary science in areas beneficial to health, such as pervasive computing, advanced analytics, and sensor integration. Our work in this area is guided by the potential of these applications to revolutionize the interaction between humans and their environment.
 
 ### ... and more.
