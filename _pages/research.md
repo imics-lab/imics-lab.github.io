@@ -32,7 +32,7 @@ Our focus on ethics in AI led us to study bias and fairness in anonymous self-re
 
 ### Behavior Modeling and Activity Recognition
 
-<img src="/images/respic/exercise_motion_tracking.png" alt="" style="width: 280px; float: left; margin: 0px  10px" />
+<img src="/images/respic/exercise_motion_tracking.png" alt="" style="width: 290px; float: left; margin: 0px  10px" />
 Behavior modeling and activity recognition are valuable areas that various smart health applications can harness. Our research group has been keenly focused on developing sophisticated algorithms for human motion analysis, contributing to this vital domain of study.
 
 We have applied these algorithms for a diverse array of applications. For instance, we have used motion analysis to detect abnormal behavior, a critical component for ensuring the safety and well-being of individuals in healthcare settings. Also, we've utilized it in video and smartwatch-based fall detection systems, providing an essential tool for monitoring the elderly or those at risk of falls.
@@ -53,9 +53,9 @@ In the future, we aim to broaden this research, leveraging VR and affective comp
 
 ### Sleep Monitoring
 
-<img src="/images/respic/sleep_monitoring.png" alt="" style="width: 420px; float: left; margin: 0px  10px" />
+<img src="/images/respic/sleep_monitoring.png" alt="" style="width: 360px; float: left; margin: 0px  10px" />
 Recognizing sleep's importance for overall health, we've devised solutions for monitoring sleep patterns. Our efforts include developing unobtrusive sleep quality tracking methods and machine learning-based approaches for physiological sleep data analysis and sleep disorder detection.
-<br><br><br><br>
+<br><br><br><br><br>
 
 ### Smart Health and Pervasive Computing
 
