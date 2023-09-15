@@ -11,30 +11,71 @@
   info: PhD student, started Aug 2019
   email: amk181@txstate.edu
   number_educ: 2
-  education1: Master of Science degree in <a href="https://www.kent.edu/cs" target="_blank">Computer Science from Kent State University</a>
-  education2: BS in Finance/Economics from <a href="https://www.edinboro.edu/" target="_blank">PennWest Edinboro</a>
+  education1: Master of Science degree in Computer Science from Kent State University
+  education2: BS in Finance/Economics from PennWest Edinboro
 
-- name: Xiomin Li
-  photo: xiaomin.jpeg
-  info: PhD student, started Aug 2018
-  email: x_l30@txstate.edu
-  number_educ: 1
-  education1: BE in Computer Science from <a href="https://en.lzu.edu.cn/">Lanzhou University</a>, China
-
-- name: Rajnish Kumar
-  photo: rajnish.jpg
-  info: PhD student, started Aug 2022
-  email: rajnish.kumar@txstate.edu
+- name: Bikram De
+  photo: bikram.jpg
+  info: PhD student, started Aug 2023
+  email: bikramkumarde@txstate.edu
   number_educ: 2
-  education1: MS in Computer Science California State University, Los Angeles.
-  education2: BE in Computer Engineering from Savitribai Phule Pune University, India
+  education1: MS in Computer Science, Vanderbilt University, Nashville, TN
+  education2: BE in Computer Science and Engineering from Jadavpur University, Kolkata, India
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="/openings">Openings</a> for more info
-  email: vmetsis@txstate.edu
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+- name: Yasamin Ghahremani
+  photo: pic_placeholder.png
+  info: PhD student, started Aug 2023
+  email: zub11@txstate.edu
+  number_educ: 2
+  education1: MS in Industrial Engineering, Iran University of Science and Technology - Tehran, Iran
+  education2: BS in Industrial Engineering, Sharif University of Technology - Tehran, Iran
+
+- name: Habib Irani
+  photo: habib.jpg
+  info: PhD student, started Aug 2023
+  email: habibirani@txstate.edu
+  number_educ: 2
+  education1: MS in Information Systems, Shahid Beheshti University, Iran
+  education2: BS in Physics, University of Tehran, Iran
+
+- name: Arshia Kermani
+  photo: arshia.jpg
+  info: PhD student, started Aug 2023
+  email: arshia.kermani@txstate.edu
+  number_educ: 1
+  education1: BS in Industrial Engineering, Isfahan University of Technology, Iran
+  education2: 
+
+- name: Michael Sakevych
+  photo: michael.png
+  info: PhD student, started Aug 2023
+  email: ukb12@txstate.edu
+  number_educ: 2
+  education1: BS in Artificial Intelligence from Johannes Kepler University, Linz, Austria
+  education2: BS in Computer Science from Taras Shevchenko National University of Kyiv, Ukraine
+
+# - name: Rajnish Kumar
+#   photo: rajnish.jpg
+#   info: PhD student, started Aug 2022
+#   email: rajnish.kumar@txstate.edu
+#   number_educ: 2
+#   education1: MS in Computer Science California State University, Los Angeles.
+#   education2: BE in Computer Engineering from Savitribai Phule Pune University, India
+
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: See <a href="/openings">Openings</a> for more info
+#   email: vmetsis@txstate.edu
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+#   education4:
+
+# - name: 
+#   photo: pic_placeholder.png
+#   info: PhD student, started Aug 2023
+#   email: ukb12@txstate.edu
+#   number_educ: 2
+#   education1: MS in 
+#   education2: BE in
