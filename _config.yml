@@ -11,7 +11,7 @@ email: vmetsis@txstate.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of the IMICS Lab.
 baseurl: ""
-url: ""
+url: "https://imics-lab.github.io/"
 
 include:
   - .htaccess
