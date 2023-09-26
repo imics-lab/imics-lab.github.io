@@ -8,6 +8,8 @@ permalink: /openings/
 
 # Open positions
 
+All PhD positions in the lab are currently filled.
+
 <!-- **We are currently open for PhD applications.**
 
 We are  looking for new group members with passion, talent, and grit!
