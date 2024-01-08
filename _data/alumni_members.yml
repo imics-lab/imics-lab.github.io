@@ -1,20 +1,30 @@
-- name: Xiomin Li
+- name: Alex Katrompas
+  photo: alex.jpg
+  info: In the IMICS Lab as a PhD student Aug 2019 to Dec 2023
+  email: amk181@txstate.edu
+  number_educ: 3
+  education1: PhD in Computer Science from Texas State University
+  education2: MS in Computer Science from Kent State University
+  education3: BS in Finance/Economics from PennWest Edinboro
+  
+- name: Xiaomin Li
   photo: xiaomin.jpeg
   duration: In the IMICS Lab as a PhD student Aug 2019 to Aug 2023
   email: x_l30@txstate.edu
   info: PhD student
-  number_educ: 0
-  education1: BE in Computer Science from <a href="https://en.lzu.edu.cn/">Lanzhou University</a>, China
+  number_educ: 2
+  education1: PhD in Computer Science from Texas State University
+  education2: BE in Computer Science from <a href="https://en.lzu.edu.cn/">Lanzhou University</a>, China
 
 - name: Lee B. Hinkle
   photo: lee.jpg
   duration: In the IMICS Lab as MS student 2015 - 2016 and as a PhD student in 2017 - 2023
   info: PhD student
   email: leebhinkle@txstate.edu
-  number_educ: 0
-  education1: 
-  education2:
-  education3:
+  number_educ: 3
+  education1: PhD in Computer Science from Texas State University
+  education2: MS in Computer Science from Texas State University
+  education3: BS in Electrical Engineering from the University of Florida
   education4:
 
 - name: Gentry Atkinson
@@ -22,9 +32,9 @@
   info: PhD student
   duration: In the IMICS Lab as a PhD student Aug 2018 to May 2023
   email: gma23@txstate.edu
-  number_educ: 0
-  education1: 
-  education2: 
+  number_educ: 2
+  education1: PhD in Computer Science from Texas State University
+  education2: BS in Computer Science from Texas State University
   education3: 
 
 - name: Kamrad Khoshhal Roudposhti
@@ -32,7 +42,7 @@
   info: Postdoc
   duration: In the IMICS Lab as a Postdoctoral Research Associate 2016 - 2017, now Assistant Professor at Islamic Azad University, Iran
   email: 
-  number_educ: 0
-  education1: 
+  number_educ: 1
+  education1: PhD in Computer and Electrical Engineering from the University of Coimbra (Universidade de Coimbra)
   education2: 
   education3: 
