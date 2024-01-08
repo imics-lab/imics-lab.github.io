@@ -3,16 +3,8 @@
   info: Associate professor, started Aug 2014
   email: vmetsis@txstate.edu
   number_educ: 2
-  education1: PhD in <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse">Computer Science and Enginnering, The University of Texas at Arlington (UTA)</a>
+  education1: PhD in <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse">Computer Science and Engineering, The University of Texas at Arlington (UTA)</a>
   education2: BS in Computer Science from the <a href="https://www.dept.aueb.gr/en/cs">Department of Informatics of the Athens University of Economics and Business (AUEB)</a>, Greece
-
-- name: Alex Katrompas
-  photo: alex.jpg
-  info: PhD student, started Aug 2019
-  email: amk181@txstate.edu
-  number_educ: 2
-  education1: Master of Science degree in Computer Science from Kent State University
-  education2: BS in Finance/Economics from PennWest Edinboro
 
 - name: Bikram De
   photo: bikram.jpg
