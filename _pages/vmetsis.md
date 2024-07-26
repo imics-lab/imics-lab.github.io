@@ -17,3 +17,16 @@ Dr. Metsis received his Bachelor of Science degree in Computer Science in 2005 f
 During 2006-2007, Dr. Metsis worked as a Research Associate at the Department of Informatics and Telecommunications of the [National Center for Scientific Research (NCSR) "Demokritos"](https://www.demokritos.gr/) in Greece, contributing to the project [MedIEQ](https://medieq.org/), funded by the European Commission. After receiving his Ph.D. diploma, and until joining TXST, he worked as a Faculty Research Associate at UTA.
 
 Dr. Metsis has been awarded several research grants from federal, state, and industry sources and has published over 70 peer-reviewed research papers. His research interests span the areas of Machine Learning and Computer Vision with a focus on AI-powered applications of Smart Health, Pervasive Computing, and Human-AR/VR Interaction.
+
+<p>
+  <strong>Office address:</strong><br>
+  Comal Bldg, Room 307F<br>
+  Department of Computer Science<br>
+  Texas State University<br>
+  601 University Drive<br>
+  San Marcos, TX 78666-4684
+</p>
+<p>
+  <strong>Phone (office):</strong> 512-245-7509<br>
+  <strong>E-mail:</strong> vmetsis@txstate.edu
+</p>
