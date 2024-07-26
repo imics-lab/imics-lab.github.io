@@ -2,7 +2,7 @@
 title: "IMICS Lab - Team"
 layout: gridlay
 excerpt: "IMICS Lab: Team members"
-sitemap: false
+sitemap: true
 permalink: /team/
 ---
 

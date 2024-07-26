@@ -2,7 +2,7 @@
 title: "IMICS Lab - Research"
 layout: textlay
 excerpt: "IMICS Lab -- Research"
-sitemap: false
+sitemap: true
 permalink: /research/
 ---
 

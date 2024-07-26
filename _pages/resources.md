@@ -2,7 +2,7 @@
 title: "IMICS Lab - Resources"
 layout: textlay
 excerpt: "Resources"
-sitemap: false
+sitemap: true
 permalink: /resources/
 ---
 

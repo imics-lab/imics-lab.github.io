@@ -2,7 +2,7 @@
 title: "News"
 layout: textlay
 excerpt: "IMICS Lab at Texas State University."
-sitemap: false
+sitemap: true
 permalink: /allnews.html
 ---
 

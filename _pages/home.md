@@ -2,7 +2,7 @@
 title: "IMICS Lab - Home"
 layout: homelay
 excerpt: "Intelligent Multimodal Computing and Sensing (IMICS) Laboratory"
-sitemap: false
+sitemap: true
 permalink: /
 ---
 

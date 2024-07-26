@@ -2,7 +2,7 @@
 title: "IMICS Lab - Openings"
 layout: textlay
 excerpt: "Openings"
-sitemap: false
+sitemap: true
 permalink: /openings/
 ---
 

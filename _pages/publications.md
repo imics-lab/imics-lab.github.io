@@ -2,7 +2,7 @@
 title: "IMICS Lab - Publications"
 layout: gridlay
 excerpt: "IMICS Lab -- Publications."
-sitemap: false
+sitemap: true
 permalink: /publications/
 ---
 <!-- Check if JavaScript is enabled -->
