@@ -6,7 +6,9 @@ sitemap: true
 permalink: /
 ---
 
-The **Intelligent Multimodal Computing and Sensing (IMICS) Lab** is part of the [Computer Science Department](https://cs.txstate.edu/) at [Texas State University](https://www.txst.edu/).
+<p>The **Intelligent Multimodal Computing and Sensing (IMICS) Lab** is part of the [Computer Science Department](https://cs.txstate.edu/) at [Texas State University](https://www.txst.edu/).</p>
+
+<p>Director: [Dr. Vangelis Metsis](https://imics-lab.github.io/vmetsis/)</p>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
