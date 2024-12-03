@@ -38,6 +38,14 @@
   education1: BS in Industrial Engineering, Isfahan University of Technology, Iran
   education2: 
 
+- name: Deautaun Ross
+  photo: deautaun.jpg
+  info: PhD student, started Aug 2024
+  email: drr175@txstate.edu
+  number_educ: 1
+  education1: BS in Computer Science from St. Edward's University, Austin, TX
+  education2:
+ 
 - name: Michael Sakevych
   photo: michael.png
   info: PhD student, started Aug 2023
@@ -46,13 +54,6 @@
   education1: BS in Artificial Intelligence from Johannes Kepler University, Linz, Austria
   education2: BS in Computer Science from Taras Shevchenko National University of Kyiv, Ukraine
 
-- name: Deautaun Ross
-  photo: pic_placeholder.png
-  info: PhD student, started Aug 2024
-  email: drr175@txstate.edu
-  number_educ: 1
-  education1: BS in Computer Science from St. Edward's University, Austin, TX
-  education2:
 
 # - name: "This could be you !"
 #   photo: rock.jpg
