@@ -46,13 +46,12 @@
   education1: BS in Artificial Intelligence from Johannes Kepler University, Linz, Austria
   education2: BS in Computer Science from Taras Shevchenko National University of Kyiv, Ukraine
 
-# - name: Rajnish Kumar
-#   photo: rajnish.jpg
-#   info: PhD student, started Aug 2022
-#   email: rajnish.kumar@txstate.edu
-#   number_educ: 2
-#   education1: MS in Computer Science California State University, Los Angeles.
-#   education2: BE in Computer Engineering from Savitribai Phule Pune University, India
+- name: Deautaun Ross
+  photo: pic_placeholder.png
+  info: PhD student, started Aug 2024
+  email: drr175@txstate.edu
+  number_educ: 2
+  education1: BS in Computer Science from St. Edward's University
 
 # - name: "This could be you !"
 #   photo: rock.jpg
