@@ -14,13 +14,13 @@
   education1: MS in Computer Science, Vanderbilt University, Nashville, TN
   education2: BE in Computer Science and Engineering from Jadavpur University, Kolkata, India
 
-- name: Yasamin Ghahremani
-  photo: pic_placeholder.png
-  info: PhD student, started Aug 2023
-  email: zub11@txstate.edu
-  number_educ: 2
-  education1: MS in Industrial Engineering, Iran University of Science and Technology - Tehran, Iran
-  education2: BS in Industrial Engineering, Sharif University of Technology - Tehran, Iran
+# - name: Yasamin Ghahremani
+#   photo: pic_placeholder.png
+#   info: PhD student, started Aug 2023
+#   email: zub11@txstate.edu
+#   number_educ: 2
+#   education1: MS in Industrial Engineering, Iran University of Science and Technology - Tehran, Iran
+#   education2: BS in Industrial Engineering, Sharif University of Technology - Tehran, Iran
 
 - name: Habib Irani
   photo: habib.jpg
