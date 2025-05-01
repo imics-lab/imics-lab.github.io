@@ -1,3 +1,10 @@
+- name: Himson Chapagain 
+  photo: himson.png
+  info: Undergraduate student
+  email: rnx16@txstate.edu
+  number_educ: 0
+  education1:
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="/openings">Openings</a> for more info
